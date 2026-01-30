@@ -1,0 +1,12 @@
+{
+  "firmware": {
+    "version": "2.1",
+    "url": "https://smartsocketparamupdate-tsvetomir-1.koyeb.app/firmware.bin"
+  },
+  "config": {
+    "u_min": 200,
+    "u_max": 255,
+    "delay_on": 5,
+    "delay_off": 10
+  }
+}
