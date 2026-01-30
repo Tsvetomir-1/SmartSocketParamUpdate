@@ -2,7 +2,7 @@
   "config": {
     "u_min": 200,
     "u_max": 250,
-    "delay_on": 5,
-    "delay_off": 10
+    "delay_on": 13,
+    "delay_off": 17
   }
 }
