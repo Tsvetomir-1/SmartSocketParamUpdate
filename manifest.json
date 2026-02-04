@@ -1,8 +1,0 @@
-{
-  "config": {
-    "u_min": 200,
-    "u_max": 230,
-    "delay_on": 10,
-    "delay_off": 10
-  }
-}
